@@ -1,4 +1,4 @@
-### desktop launcher
+## Desktop Launcher
 
 ` cd /usr/share/applications/ `
 
