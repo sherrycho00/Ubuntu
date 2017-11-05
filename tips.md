@@ -17,7 +17,7 @@ Categories=Development
 
 [ubuntu下创建桌面启动器](http://blog.csdn.net/zhuxinquan61/article/details/51454512)
 
-#显示隐藏文件
+# 显示隐藏文件
 
 ` Ctrl+h ` 
 ` ls -la `
